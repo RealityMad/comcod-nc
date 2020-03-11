@@ -1,7 +1,8 @@
 
 /* General defults*/
 body {
-    background: linear-gradient(#f6b53c, #36d1b7);
+    background: repeating-radial-gradient(rgb(199, 10, 10), rgb(34, 44, 139)50px);
+    
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -10,6 +11,10 @@ img {
 }
 
 /* Sections */
+
+h1 {
+    color: whitesmoke;
+}
 
 .item {
 background-color: #f1f1f1;
