@@ -6,15 +6,17 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-img {
+img, video {
     max-width: 100%;
 }
 
 /* Sections */
 
 h1 {
+    text-align: center;
     color: whitesmoke;
 }
+
 
 .item {
 background-color: #f1f1f1;
